@@ -1,5 +1,1 @@
-<script runat="server">
-
-var test = "test"
-write(test) 
-</script>
+<p>hej</p>
